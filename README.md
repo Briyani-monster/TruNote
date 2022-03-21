@@ -1,2 +1,0 @@
-# TruNote
-Minimilist Notes App
