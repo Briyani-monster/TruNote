@@ -1,0 +1,15 @@
+{
+  "name": "trunote",
+  "version": "1.0.0",
+  "description": "Minimilist Notes App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "G S ASHISH",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
